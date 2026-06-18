@@ -114,8 +114,8 @@ HR_Dashboard_Screenshot.png
 
 ## 👨‍💻 Author
 
-**Your Name**
+V.Devi Sri
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/vemuladevisri-210
 * LinkedIn: https://linkedin.com/in/yourprofile
 # HR-Dashboard
